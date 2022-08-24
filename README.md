@@ -2,6 +2,8 @@
 
  This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
 
+# Website Link
+<a href="http://automationpractice.com/">Automation Practice Website </a>
 # The following key modules/pages are automated:
 SignUp <br>
 Login<br>
