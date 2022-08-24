@@ -6,7 +6,7 @@
 SignUp <br>
 Login<br>
 Search<br>
-Cart<br><br>
+Cart<br>
 Checkout<br>
 
 # Technology:
