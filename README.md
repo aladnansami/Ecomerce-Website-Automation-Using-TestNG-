@@ -1,21 +1,31 @@
 # Test_Automation_Selenium_TestNG
 
-## This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
+ This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
 
-## Drive link of the test cases:
-https://drive.google.com/drive/folders/1hZMWx_JE6ApgADtelbcgWCGgPumlYGgb?usp=sharing
+# The following key modules/pages are automated:
+SignUp <br>
+Login<br>
+Search<br>
+Cart<br><br>
+Checkout<br>
 
-## Tools used :
- -Intellij IDEA <br/>
- -Selenium <br/>
- -TestNG (As automation testing Framework)<br/>
- -Allure(For report Generation)<br/>
+# Technology:
+Tool: Selenium Webdriver <br>
+IDE: Intellij IDEA<br>
+Build tool: Gradle<br>
+Language: Java<br>
+Testing Framework : TestNG><br>
  
- ## Snippet of the Test report are included below:
+ # Run the Automation Script by the following command:
  
- 
- ![1_overview](https://user-images.githubusercontent.com/47983558/185986567-45e3530b-9602-4aac-a464-2d4055676e15.PNG)
+ gradle clean test 
 
-![suite1](https://user-images.githubusercontent.com/47983558/185986612-18415c82-fbf5-45f5-b6fa-51b41c890eb5.PNG)
+# After automation to view allure report , give the following commands:
+Selenium will open the browser and start automating.
+<br><br>
+allure generate allure-results --clean -o allure-report
+<br>
+allure serve allure-results
 
-![suite2](https://user-images.githubusercontent.com/47983558/185986632-0c9b8635-f2a8-4169-90f7-bcc7920bb804.PNG)
+
+
