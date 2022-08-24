@@ -30,4 +30,8 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
 
 
+# Test Case(.xlxs)
+<a href="https://docs.google.com/spreadsheets/d/1x_C76-9DxKLtsK8eJh_YNgieCsiZa-98/edit?usp=sharing&ouid=103990196804183015892&rtpof=true&sd=true">Go to </a>
+
+
 
