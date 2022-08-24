@@ -14,7 +14,7 @@ Tool: Selenium Webdriver <br>
 IDE: Intellij IDEA<br>
 Build tool: Gradle<br>
 Language: Java<br>
-Testing Framework : TestNG><br>
+Testing Framework : TestNG<br>
  
  # Run the Automation Script by the following command:
  
